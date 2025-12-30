@@ -1,0 +1,6 @@
+# Python virtual environments
+venv/
+environment_for_whatsapp/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
